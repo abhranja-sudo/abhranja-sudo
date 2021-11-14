@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abhishek Ranjan
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Design Patterns 
 - 📫 reach me at ar50645@gmail.com
 
 <!---
